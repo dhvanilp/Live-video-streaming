@@ -1,4 +1,4 @@
-# LightMetrics
+# Live-video-streaming
 
 A simple streaming setup that allows to view live video stream from camera
 
