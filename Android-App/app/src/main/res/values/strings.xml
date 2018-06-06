@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">example3</string>
+    <string name="start">Start/Stop Streaming</string>
+    <string name="flash">Flash</string>
+    <string name="camera">Camera</string>
+    <string name="video">Video Settings</string>
+    <string name="save">OK</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="uri">URI</string>
+    <string name="password_hint">Leave empty if not needed</string>
+    <string name="username_hint">Leave empty if not needed</string>
+    <string name="default_bitrate">0 kbps</string>
+    <string name="default_stream">rtsp://wowzaipaddress:1935/live/test.stream</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+
+</resources>

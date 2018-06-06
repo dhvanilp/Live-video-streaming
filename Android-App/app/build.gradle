@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "net.majorkernelpanic.example3"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation project(':libstreaming')
+    implementation 'com.google.firebase:firebase-core:16.0.0'
+    implementation 'com.google.firebase:firebase-iid:16.0.0'
+    implementation 'com.google.firebase:firebase-messaging:17.0.0'
+    implementation 'com.firebase:firebase-jobdispatcher:0.8.5'
+}
+apply plugin: 'com.google.gms.google-services'

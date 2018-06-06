@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/debug/jniLibs"/></dataSet></merger>

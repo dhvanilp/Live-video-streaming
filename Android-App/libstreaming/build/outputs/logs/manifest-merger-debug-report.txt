@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml
+		INJECTED from /home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/libstreaming/src/main/AndroidManifest.xml

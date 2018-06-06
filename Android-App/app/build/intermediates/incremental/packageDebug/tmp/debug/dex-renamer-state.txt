@@ -1,0 +1,13 @@
+#Wed Jun 06 13:00:55 IST 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/transforms/dexMerger/debug/15
+base.2=/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/transforms/dexMerger/debug/13
+base.0=/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/transforms/dexMerger/debug/14

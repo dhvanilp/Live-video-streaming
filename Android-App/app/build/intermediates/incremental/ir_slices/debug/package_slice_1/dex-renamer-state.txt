@@ -1,0 +1,4 @@
+#Wed Jun 06 13:00:55 IST 2018
+base.0=/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

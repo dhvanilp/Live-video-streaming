@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1019666405274",
+    "firebase_url": "https://lightmetrics-33a86.firebaseio.com",
+    "project_id": "lightmetrics-33a86",
+    "storage_bucket": "lightmetrics-33a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019666405274:android:6fed5bd853d10d87",
+        "android_client_info": {
+          "package_name": "net.majorkernelpanic.example3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019666405274-qlrnjtfmv4evpktu9s9hc41hmetb0q26.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1019666405274-qlrnjtfmv4evpktu9s9hc41hmetb0q26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E20cyvGFSycvhsODK4KSClSBgDD9YHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
