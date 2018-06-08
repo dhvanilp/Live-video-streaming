@@ -18,14 +18,15 @@
 
 package net.majorkernelpanic.streaming.mp4;
 
+import android.util.Base64;
+import android.util.Log;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 import java.util.HashMap;
-import android.util.Base64;
-import android.util.Log;
 
 /**
  * Parse an mp4 file.

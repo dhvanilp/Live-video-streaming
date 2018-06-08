@@ -18,9 +18,6 @@
 
 package net.majorkernelpanic.streaming.gl;
 
-import java.util.concurrent.Semaphore;
-import net.majorkernelpanic.streaming.MediaStream;
-import net.majorkernelpanic.streaming.video.VideoStream;
 import android.content.Context;
 import android.graphics.SurfaceTexture;
 import android.graphics.SurfaceTexture.OnFrameAvailableListener;
@@ -29,6 +26,11 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.Surface;
 import android.view.SurfaceHolder;
+
+import net.majorkernelpanic.streaming.MediaStream;
+import net.majorkernelpanic.streaming.video.VideoStream;
+
+import java.util.concurrent.Semaphore;
 
 /**
  * An enhanced SurfaceView in which the camera preview will be rendered. 

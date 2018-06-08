@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+            "outputFile": "/home/dhp/Current/Live-video-streaming/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
             "map": [
                 {
                     "source": "/home/dhp/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.0.0.aar/161009f6739b56998b35656e9965ad8a/res/values-sl/values.xml",

@@ -18,10 +18,12 @@
 
 package net.majorkernelpanic.streaming.rtp;
 
-import java.io.IOException;
-import net.majorkernelpanic.streaming.audio.AACStream;
 import android.os.SystemClock;
 import android.util.Log;
+
+import net.majorkernelpanic.streaming.audio.AACStream;
+
+import java.io.IOException;
 
 /**
  *   

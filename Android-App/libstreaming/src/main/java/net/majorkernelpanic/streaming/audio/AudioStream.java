@@ -18,14 +18,15 @@
 
 package net.majorkernelpanic.streaming.audio;
 
-import java.io.FileDescriptor;
-import java.io.IOException;
-import java.io.InputStream;
-
-import net.majorkernelpanic.streaming.MediaStream;
 import android.media.MediaRecorder;
 import android.os.ParcelFileDescriptor;
 import android.util.Log;
+
+import net.majorkernelpanic.streaming.MediaStream;
+
+import java.io.FileDescriptor;
+import java.io.IOException;
+import java.io.InputStream;
 
 /** 
  * Don't use this class directly.

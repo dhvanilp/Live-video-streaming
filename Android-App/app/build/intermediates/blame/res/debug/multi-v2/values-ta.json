@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/home/dhp/Current/Live-video-streaming/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/home/dhp/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/958b7f4f163187e3feca72ac275eccff/res/values-ta/values.xml",

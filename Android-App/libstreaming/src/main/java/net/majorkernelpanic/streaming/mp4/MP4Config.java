@@ -18,10 +18,11 @@
 
 package net.majorkernelpanic.streaming.mp4;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import android.util.Base64;
 import android.util.Log;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
 
 /**
  * Finds SPS & PPS parameters in mp4 file.

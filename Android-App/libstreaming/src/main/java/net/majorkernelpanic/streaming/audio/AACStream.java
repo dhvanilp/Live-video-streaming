@@ -18,16 +18,6 @@
 
 package net.majorkernelpanic.streaming.audio;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.RandomAccessFile;
-import java.lang.reflect.Field;
-import java.net.InetAddress;
-import java.nio.ByteBuffer;
-import net.majorkernelpanic.streaming.SessionBuilder;
-import net.majorkernelpanic.streaming.rtp.AACADTSPacketizer;
-import net.majorkernelpanic.streaming.rtp.AACLATMPacketizer;
-import net.majorkernelpanic.streaming.rtp.MediaCodecInputStream;
 import android.annotation.SuppressLint;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
@@ -41,6 +31,18 @@ import android.os.Build;
 import android.os.Environment;
 import android.service.textservice.SpellCheckerService.Session;
 import android.util.Log;
+
+import net.majorkernelpanic.streaming.SessionBuilder;
+import net.majorkernelpanic.streaming.rtp.AACADTSPacketizer;
+import net.majorkernelpanic.streaming.rtp.AACLATMPacketizer;
+import net.majorkernelpanic.streaming.rtp.MediaCodecInputStream;
+
+import java.io.File;
+import java.io.IOException;
+import java.io.RandomAccessFile;
+import java.lang.reflect.Field;
+import java.net.InetAddress;
+import java.nio.ByteBuffer;
 
 /**
  * A class for streaming AAC from the camera of an android device using RTP.

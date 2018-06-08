@@ -18,6 +18,11 @@
 
 package net.majorkernelpanic.streaming.rtp;
 
+import android.os.SystemClock;
+import android.util.Log;
+
+import net.majorkernelpanic.streaming.rtcp.SenderReport;
+
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.DatagramPacket;
@@ -25,9 +30,6 @@ import java.net.InetAddress;
 import java.net.MulticastSocket;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
-import net.majorkernelpanic.streaming.rtcp.SenderReport;
-import android.os.SystemClock;
-import android.util.Log;
 
 /**
  * A basic implementation of an RTP socket.

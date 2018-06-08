@@ -18,11 +18,11 @@
 
 package net.majorkernelpanic.streaming.rtp;
 
-import java.io.IOException;
 import android.annotation.SuppressLint;
 import android.media.MediaCodec.BufferInfo;
-import android.os.SystemClock;
 import android.util.Log;
+
+import java.io.IOException;
 
 /**
  * RFC 3640.  

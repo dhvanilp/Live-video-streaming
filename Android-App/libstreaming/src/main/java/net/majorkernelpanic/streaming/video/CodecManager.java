@@ -18,14 +18,15 @@
 
 package net.majorkernelpanic.streaming.video;
 
-import java.util.ArrayList;
-import java.util.HashMap;
 import android.annotation.SuppressLint;
 import android.media.MediaCodecInfo;
 import android.media.MediaCodecList;
 import android.os.Build;
 import android.util.Log;
 import android.util.SparseArray;
+
+import java.util.ArrayList;
+import java.util.HashMap;
 
 @SuppressLint("InlinedApi")
 public class CodecManager {

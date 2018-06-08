@@ -18,16 +18,6 @@
 
 package net.majorkernelpanic.streaming.video;
 
-import java.io.File;
-import java.io.IOException;
-import java.util.concurrent.Semaphore;
-import java.util.concurrent.TimeUnit;
-import net.majorkernelpanic.streaming.SessionBuilder;
-import net.majorkernelpanic.streaming.exceptions.ConfNotSupportedException;
-import net.majorkernelpanic.streaming.exceptions.StorageUnavailableException;
-import net.majorkernelpanic.streaming.hw.EncoderDebugger;
-import net.majorkernelpanic.streaming.mp4.MP4Config;
-import net.majorkernelpanic.streaming.rtp.H264Packetizer;
 import android.annotation.SuppressLint;
 import android.content.SharedPreferences.Editor;
 import android.graphics.ImageFormat;
@@ -37,6 +27,18 @@ import android.os.Environment;
 import android.service.textservice.SpellCheckerService.Session;
 import android.util.Base64;
 import android.util.Log;
+
+import net.majorkernelpanic.streaming.SessionBuilder;
+import net.majorkernelpanic.streaming.exceptions.ConfNotSupportedException;
+import net.majorkernelpanic.streaming.exceptions.StorageUnavailableException;
+import net.majorkernelpanic.streaming.hw.EncoderDebugger;
+import net.majorkernelpanic.streaming.mp4.MP4Config;
+import net.majorkernelpanic.streaming.rtp.H264Packetizer;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.concurrent.Semaphore;
+import java.util.concurrent.TimeUnit;
 
 /**
  * A class for streaming H.264 from the camera of an android device using RTP.

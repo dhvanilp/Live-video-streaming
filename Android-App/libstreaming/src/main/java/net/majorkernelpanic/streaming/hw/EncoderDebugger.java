@@ -18,11 +18,6 @@
 
 package net.majorkernelpanic.streaming.hw;
 
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.StringWriter;
-import java.nio.ByteBuffer;
-import net.majorkernelpanic.streaming.hw.CodecManager.Codec;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -35,6 +30,13 @@ import android.os.Build;
 import android.preference.PreferenceManager;
 import android.util.Base64;
 import android.util.Log;
+
+import net.majorkernelpanic.streaming.hw.CodecManager.Codec;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.StringWriter;
+import java.nio.ByteBuffer;
 
 /**
  * 

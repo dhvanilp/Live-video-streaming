@@ -35,7 +35,8 @@
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:largeHeap="true" >
+        android:largeHeap="true"
+        android:testOnly="true" >
         <activity
             android:name="net.majorkernelpanic.example3.MainActivity"
             android:label="@string/app_name"

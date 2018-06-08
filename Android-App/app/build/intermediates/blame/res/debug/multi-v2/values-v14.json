@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/home/dhp/Current/Live-video-streaming/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/src/main/res/values-v14/styles.xml",
+                    "source": "/home/dhp/Current/Live-video-streaming/Android-App/app/src/main/res/values-v14/styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",

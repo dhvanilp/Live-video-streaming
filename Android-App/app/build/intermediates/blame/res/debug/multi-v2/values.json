@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/dhp/Current/Live-video-streaming/Android-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/dhp/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4aeab77a9b6077c80bcec547e73fb07f/res/values/values.xml",
@@ -21,43 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/build/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,200,313,396,500,604,724,826",
-                        "endColumns": "144,112,82,103,103,119,101,78",
-                        "endOffsets": "195,308,391,495,599,719,821,900"
-                    },
-                    "to": {
-                        "startLines": "109,111,113,114,115,116,117,122",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "7528,7755,7908,7991,8095,8199,8319,8702",
-                        "endColumns": "144,112,82,103,103,119,101,78",
-                        "endOffsets": "7668,7863,7986,8090,8194,8314,8416,8776"
-                    }
-                },
-                {
-                    "source": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "8,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "362,115",
-                        "endLines": "16,6",
-                        "endColumns": "12,12",
-                        "endOffsets": "848,356"
-                    },
-                    "to": {
-                        "startLines": "130,139",
-                        "startColumns": "4,4",
-                        "startOffsets": "9142,9574",
-                        "endLines": "138,142",
-                        "endColumns": "12,12",
-                        "endOffsets": "9569,9756"
-                    }
-                },
-                {
-                    "source": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/src/main/res/values/dimens.xml",
+                    "source": "/home/dhp/Current/Live-video-streaming/Android-App/app/src/main/res/values/dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
@@ -91,6 +55,23 @@
                     }
                 },
                 {
+                    "source": "/home/dhp/Current/Live-video-streaming/Android-App/app/build/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,200,313,396,500,604,724,826",
+                        "endColumns": "144,112,82,103,103,119,101,78",
+                        "endOffsets": "195,308,391,495,599,719,821,900"
+                    },
+                    "to": {
+                        "startLines": "109,111,113,114,115,116,117,122",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "7528,7755,7908,7991,8095,8199,8319,8702",
+                        "endColumns": "144,112,82,103,103,119,101,78",
+                        "endOffsets": "7668,7863,7986,8090,8194,8314,8416,8776"
+                    }
+                },
+                {
                     "source": "/home/dhp/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.0.0.aar/161009f6739b56998b35656e9965ad8a/res/values/values.xml",
                     "from": {
                         "startLines": "4",
@@ -108,7 +89,26 @@
                     }
                 },
                 {
-                    "source": "/home/dhp/Current/LightMetrics/LightMetrics-git/Android-App/app/src/main/res/values/strings.xml",
+                    "source": "/home/dhp/Current/Live-video-streaming/Android-App/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "8,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "362,115",
+                        "endLines": "16,6",
+                        "endColumns": "12,12",
+                        "endOffsets": "848,356"
+                    },
+                    "to": {
+                        "startLines": "130,139",
+                        "startColumns": "4,4",
+                        "startOffsets": "9142,9574",
+                        "endLines": "138,142",
+                        "endColumns": "12,12",
+                        "endOffsets": "9569,9756"
+                    }
+                },
+                {
+                    "source": "/home/dhp/Current/Live-video-streaming/Android-App/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "3,6,14,17,22,15,5,23,24,10,12,8,4,11,9,13,7",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
