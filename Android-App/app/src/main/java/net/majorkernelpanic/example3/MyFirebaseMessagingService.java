@@ -45,7 +45,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(i);
         Log.d(TAG, "From: " + remoteMessage.getFrom());
-        Log.d("hellllllllllllllo","ok");
 
         // Check if message contains a data payload.
         if (remoteMessage.getData().size() > 0) {

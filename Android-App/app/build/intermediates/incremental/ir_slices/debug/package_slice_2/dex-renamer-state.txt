@@ -1,4 +1,0 @@
-#Fri Jun 08 12:41:19 IST 2018
-base.0=/home/dhp/Current/Live-video-streaming/Android-App/app/build/intermediates/transforms/dexMerger/debug/19
-path.0=classes.dex
-renamed.0=classes.dex

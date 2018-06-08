@@ -31,133 +31,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SessionBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/SessionBuilder.java">
+      <file leaf-file-name="MyJobService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyJobService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="135" column="45" lean-forward="false" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="45" />
+            <state relative-caret-position="68">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFirebaseMessagingService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyFirebaseMessagingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
               <folding>
-                <element signature="e#0#10098#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#5812#5813#0" expanded="true" />
-                <element signature="e#5843#5844#0" expanded="true" />
-                <element signature="e#6310#6311#0" expanded="true" />
-                <element signature="e#6345#6346#0" expanded="true" />
-                <element signature="e#6655#6656#0" expanded="true" />
-                <element signature="e#6685#6686#0" expanded="true" />
-                <element signature="e#7010#7011#0" expanded="true" />
-                <element signature="e#7046#7047#0" expanded="true" />
-                <element signature="e#7352#7353#0" expanded="true" />
-                <element signature="e#7382#7383#0" expanded="true" />
-                <element signature="e#7611#7612#0" expanded="true" />
-                <element signature="e#7647#7648#0" expanded="true" />
-                <element signature="e#7962#7963#0" expanded="true" />
-                <element signature="e#7998#7999#0" expanded="true" />
-                <element signature="e#8329#8330#0" expanded="true" />
-                <element signature="e#8365#8366#0" expanded="true" />
-                <element signature="e#8676#8677#0" expanded="true" />
-                <element signature="e#8705#8706#0" expanded="true" />
-                <element signature="e#8842#8843#0" expanded="true" />
-                <element signature="e#8877#8878#0" expanded="true" />
-                <element signature="e#9212#9213#0" expanded="true" />
-                <element signature="e#9246#9247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AACADTSPacketizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/AACADTSPacketizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2032">
-              <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AACLATMPacketizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/AACLATMPacketizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractPacketizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/AbstractPacketizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-935">
-              <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="H264Stream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/video/H264Stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideoStream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/video/VideoStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-357">
-              <caret line="98" column="11" lean-forward="false" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="H264Packetizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/H264Packetizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3511">
-              <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediaCodecInputStream.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/MediaCodecInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AACStream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/audio/AACStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="92" column="11" lean-forward="false" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Session.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/Session.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="176" column="9" lean-forward="false" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
-              <folding>
-                <element signature="e#7801#7802#0" expanded="true" />
-                <element signature="e#7828#7829#0" expanded="true" />
-                <element signature="e#8280#8281#0" expanded="true" />
-                <element signature="e#8314#8315#0" expanded="true" />
-                <element signature="e#8535#8536#0" expanded="true" />
-                <element signature="e#8559#8560#0" expanded="true" />
+                <element signature="e#3264#3265#0" expanded="true" />
+                <element signature="e#3319#3320#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -3183,6 +3074,8 @@
         <option value="$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtsp/UriParser.java" />
         <option value="$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtsp/RtspServer.java" />
         <option value="$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/SessionBuilder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyJobService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyFirebaseMessagingService.java" />
       </list>
     </option>
   </component>
@@ -3206,7 +3099,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -3227,17 +3120,6 @@
             </path>
             <path>
               <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
               <item name="libstreaming" type="feadf853:AndroidModuleNode" />
             </path>
             <path>
@@ -3250,77 +3132,14 @@
               <item name="libstreaming" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="gl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="hw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="mp4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="rtcp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="rtp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="rtsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Android-App" type="1abcf292:AndroidViewProjectNode" />
-              <item name="libstreaming" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="streaming" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3496,32 +3315,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-14" width="1366" height="782" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45987654" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25755286" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45987654" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23111783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3529,70 +3345,58 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25755286" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyFirebaseMessagingService.java</url>
+          <line>69</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyJobService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="257" column="31" lean-forward="false" selection-start-line="257" selection-start-column="20" selection-end-line="257" selection-end-column="31" />
-          <folding>
-            <element signature="e#4374#4408#0" expanded="true" />
-            <element signature="e#7715#7755#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtsp/RtspServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyFirebaseMessagingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+          <folding>
+            <element signature="e#3264#3265#0" expanded="true" />
+            <element signature="e#3319#3320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="257" column="31" lean-forward="false" selection-start-line="257" selection-start-column="20" selection-end-line="257" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtsp/RtspServer.java" />
     <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/GlobalConstants.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-          <folding>
-            <marker date="1525034761000" expanded="false" signature="3:117" ph="/.../" />
-            <marker date="1525034761000" expanded="true" signature="918:941" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1015:1038" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1157:1180" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1214:1237" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1275:1298" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1443:1466" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1578:1601" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1642:1665" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1824:1847" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1991:2014" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2330:2353" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2444:2467" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2546:2569" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2783:2806" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2840:3953" ph="{...}" />
-            <marker date="1525034761000" expanded="true" signature="3138:3161" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3208:3231" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3271:3294" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3329:3352" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3392:3415" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3460:3483" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3528:3551" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3591:3614" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3657:3680" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3717:3740" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3785:3808" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3845:3868" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3924:3947" ph="{}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3600,50 +3404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5236">
           <caret line="308" column="27" lean-forward="false" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="27" />
-          <folding>
-            <element signature="docComment;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#ERROR_CONNECTION_FAILED#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#ERROR_WRONG_CREDENTIALS#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#TRANSPORT_UDP#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#TRANSPORT_TCP#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#ERROR_CONNECTION_LOST#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#MESSAGE_CONNECTION_RECOVERED#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#clone#0;class#Parameters#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;class#Callback#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#RtspClient#0;class#RtspClient#0" expanded="false" />
-            <element signature="class#4618:4790" expanded="false" />
-            <element signature="method#onLooperPrepared#0;class#4618:4790" expanded="false" />
-            <element signature="docComment;method#setCallback#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setSession#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setServerAddress#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#setServerAddress#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setCredentials#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setStreamPath#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setTransportMode#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#startStream#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#stopStream#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#stopStream#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#release#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#abort#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestAnnounce#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestSetup#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestSetup#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestRecord#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestRecord#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestTeardown#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestTeardown#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestOption#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestOption#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#addHeaders#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#mConnectionMonitor#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#mRetryConnection#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#bytesToHex#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#computeMd5Hash#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#computeMd5Hash#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#postMessage#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#postError#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#parseResponse#0;class#Response#0;class#RtspClient#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3651,37 +3411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-          <folding>
-            <marker date="1525034761000" expanded="false" signature="3:117" ph="/.../" />
-            <marker date="1525034761000" expanded="true" signature="918:941" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1015:1038" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1157:1180" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1214:1237" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1275:1298" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1443:1466" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1578:1601" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1642:1665" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1824:1847" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="1991:2014" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2330:2353" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2444:2467" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2546:2569" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2783:2806" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="2840:3953" ph="{...}" />
-            <marker date="1525034761000" expanded="true" signature="3138:3161" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3208:3231" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3271:3294" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3329:3352" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3392:3415" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3460:3483" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3528:3551" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3591:3614" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3657:3680" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3717:3740" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3785:3808" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3845:3868" ph="{}" />
-            <marker date="1525034761000" expanded="true" signature="3924:3947" ph="{}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3703,7 +3432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3714,7 +3442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3722,7 +3449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-932">
           <caret line="352" column="36" lean-forward="false" selection-start-line="352" selection-start-column="0" selection-end-line="353" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3730,7 +3456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3738,7 +3463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="37" column="70" lean-forward="false" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3746,50 +3470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="127" column="7" lean-forward="true" selection-start-line="127" selection-start-column="7" selection-end-line="127" selection-end-column="7" />
-          <folding>
-            <element signature="docComment;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#ERROR_CONNECTION_FAILED#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#ERROR_WRONG_CREDENTIALS#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#TRANSPORT_UDP#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#TRANSPORT_TCP#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#ERROR_CONNECTION_LOST#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#MESSAGE_CONNECTION_RECOVERED#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#clone#0;class#Parameters#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;class#Callback#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#RtspClient#0;class#RtspClient#0" expanded="false" />
-            <element signature="class#4618:4790" expanded="false" />
-            <element signature="method#onLooperPrepared#0;class#4618:4790" expanded="false" />
-            <element signature="docComment;method#setCallback#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setSession#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setServerAddress#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#setServerAddress#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setCredentials#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setStreamPath#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#setTransportMode#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#startStream#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#stopStream#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#stopStream#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#release#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#abort#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestAnnounce#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestSetup#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestSetup#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestRecord#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestRecord#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestTeardown#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestTeardown#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#sendRequestOption#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#sendRequestOption#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#addHeaders#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#mConnectionMonitor#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;field#mRetryConnection#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#bytesToHex#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#computeMd5Hash#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#computeMd5Hash#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#postMessage#0;class#RtspClient#0" expanded="false" />
-            <element signature="method#postError#0;class#RtspClient#0" expanded="false" />
-            <element signature="docComment;method#parseResponse#0;class#Response#0;class#RtspClient#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3797,10 +3477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
           <caret line="36" column="11" lean-forward="false" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-          <folding>
-            <element signature="e#1593#1594#0" expanded="true" />
-            <element signature="e#1646#1647#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3808,10 +3484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="120" column="21" lean-forward="false" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
-          <folding>
-            <element signature="e#4374#4408#0" expanded="true" />
-            <element signature="e#7715#7755#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3819,14 +3491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="176" column="9" lean-forward="false" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
-          <folding>
-            <element signature="e#7801#7802#0" expanded="true" />
-            <element signature="e#7828#7829#0" expanded="true" />
-            <element signature="e#8280#8281#0" expanded="true" />
-            <element signature="e#8314#8315#0" expanded="true" />
-            <element signature="e#8535#8536#0" expanded="true" />
-            <element signature="e#8559#8560#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3834,7 +3498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="92" column="11" lean-forward="false" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3842,31 +3505,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="97" column="23" lean-forward="false" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/video/VideoStream.java">
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtsp/RtspServer.java" />
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/MediaCodecInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="98" column="11" lean-forward="false" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="200">
+          <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/video/H264Stream.java">
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/video/CodecManager.java" />
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtsp/RtspServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="994">
-          <caret line="655" column="27" lean-forward="false" selection-start-line="655" selection-start-column="27" selection-end-line="655" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="51">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -3874,48 +3528,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="135" column="45" lean-forward="false" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#10098#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#5812#5813#0" expanded="true" />
-            <element signature="e#5843#5844#0" expanded="true" />
-            <element signature="e#6310#6311#0" expanded="true" />
-            <element signature="e#6345#6346#0" expanded="true" />
-            <element signature="e#6655#6656#0" expanded="true" />
-            <element signature="e#6685#6686#0" expanded="true" />
-            <element signature="e#7010#7011#0" expanded="true" />
-            <element signature="e#7046#7047#0" expanded="true" />
-            <element signature="e#7352#7353#0" expanded="true" />
-            <element signature="e#7382#7383#0" expanded="true" />
-            <element signature="e#7611#7612#0" expanded="true" />
-            <element signature="e#7647#7648#0" expanded="true" />
-            <element signature="e#7962#7963#0" expanded="true" />
-            <element signature="e#7998#7999#0" expanded="true" />
-            <element signature="e#8329#8330#0" expanded="true" />
-            <element signature="e#8365#8366#0" expanded="true" />
-            <element signature="e#8676#8677#0" expanded="true" />
-            <element signature="e#8705#8706#0" expanded="true" />
-            <element signature="e#8842#8843#0" expanded="true" />
-            <element signature="e#8877#8878#0" expanded="true" />
-            <element signature="e#9212#9213#0" expanded="true" />
-            <element signature="e#9246#9247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/AACADTSPacketizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2032">
+        <state relative-caret-position="-2018">
           <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/AACLATMPacketizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-          <folding />
+          <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -3923,23 +3549,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-935">
           <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/video/H264Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/video/VideoStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="98" column="11" lean-forward="false" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/H264Packetizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3511">
-          <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        <state relative-caret-position="379">
+          <caret line="277" column="12" lean-forward="false" selection-start-line="277" selection-start-column="12" selection-end-line="277" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/mp4/MP4Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-607">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/mp4/MP4Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyJobService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libstreaming/src/main/java/net/majorkernelpanic/streaming/rtp/MediaCodecInputStream.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/net/majorkernelpanic/example3/MyFirebaseMessagingService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="566">
+          <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+          <folding>
+            <element signature="e#3264#3265#0" expanded="true" />
+            <element signature="e#3319#3320#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

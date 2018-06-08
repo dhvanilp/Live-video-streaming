@@ -1,0 +1,5 @@
+./Android-App/.idea
+./Android-App/build
+./Android-App/app/build
+./Android-App/google-services.json
+*.xml
