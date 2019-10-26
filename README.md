@@ -41,3 +41,4 @@ Body:
 - Have apache server running
 - Place the `/web` folder in `/var/www/html`
 - open <a>http://<ip_address>/web/index.htm</a>
+	
