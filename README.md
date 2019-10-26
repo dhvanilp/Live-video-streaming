@@ -1,6 +1,6 @@
 # Live-video-streaming
 
-A simple streaming setup that allows to view live video stream from camera
+A simple streaming setup that allows to view live video stream from camera.
 
 
 ## Prerequisites
@@ -41,3 +41,4 @@ Body:
 - Have apache server running
 - Place the `/web` folder in `/var/www/html`
 - open <a>http://<ip_address>/web/index.htm</a>
+	
